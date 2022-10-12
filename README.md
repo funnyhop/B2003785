@@ -11,3 +11,5 @@ Hi👋
 🌱 I’m currently learning CTU    
 💬 My favorite: traveling, sport,..   
 📫 How to reach me: https://github.com/funnyhop   
+
+hi
